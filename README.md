@@ -38,7 +38,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:kolofas/test_task_it_guru.git
 cd test_task
 ```
 
